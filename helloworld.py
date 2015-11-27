@@ -2,7 +2,7 @@
 import time
 
 def main():
-    print "helloworld, Are you kidding me ~
+    print "helloworld, Are you kidding me ~"
     # time.sleep(3)
 
 if __name__ == "__main__":

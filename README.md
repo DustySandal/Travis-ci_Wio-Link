@@ -1,4 +1,5 @@
-# Travis-ci_Pion-one [![Build Status](https://travis-ci.org/awong1900/Travis-ci_Pion-one.svg?branch=master)](https://travis-ci.org/awong1900/Travis-ci_Pion-one)
+# Travis-ci_Pion-one [![Build Status](https://travis-ci.org/Lee-Kevin/Travis-ci_Wio-Link.svg)](https://travis-ci.org/Lee-Kevin/Travis-ci_Wio-Link)
+
 ## 项目介绍
 这个项目展示了如何用Pion One与Travis-ci结合，通过巨大的LED信号灯来展示项目的编译的状态。  
 把这个放在办公室显眼位置，让那些码农崩溃吧。:smirk:

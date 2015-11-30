@@ -6,8 +6,8 @@ This project shows how to use  Wio Link and Travis CI to indicate the project co
 Put the traffic lights in a conspicuous place, and let the code monkey like me breakdown. ha-ha
 
 
-## 操作步骤
-* 配置Pion One， 添加3个Grove Relay，每个Relay控制一个信号灯. [开始配置Pion One](https://iot.seeed.cc/getting_started/)  
+## Action Steps
+* Step1: Configure the Wio Link, add 3 grove relays, let each relay control different color lights. [Getting started with Wio Link](http://iot.seeed.cc/getting_started.html)  
 * 升级Pion One固件，然后拿到三个Relay的Rest API
 * 把pion_one_execute.py放置在根目录，并且修改API常量为你的API
 ```

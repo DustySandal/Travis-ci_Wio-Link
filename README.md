@@ -1,8 +1,9 @@
 # Travis-ci_Pion-one [![Build Status](https://travis-ci.org/Lee-Kevin/Travis-ci_Wio-Link.svg)](https://travis-ci.org/Lee-Kevin/Travis-ci_Wio-Link)
 
-## 项目介绍
-这个项目展示了如何用Pion One与Travis-ci结合，通过巨大的LED信号灯来展示项目的编译的状态。  
-把这个放在办公室显眼位置，让那些码农崩溃吧。:smirk:
+## Description 
+This project shows how to use  Wio Link and Travis CI to indicate the project compiled status through traffic lights by red and green.
+Put the traffic lights in a conspicuous place, and let the code monkey like me breakdown. ha-ha
+
 
 ## 操作步骤
 * 配置Pion One， 添加3个Grove Relay，每个Relay控制一个信号灯. [开始配置Pion One](https://iot.seeed.cc/getting_started/)  

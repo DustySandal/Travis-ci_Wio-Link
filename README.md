@@ -2,6 +2,7 @@
 
 ## Description 
 This project shows how to use  Wio Link and Travis CI to indicate the project compiled status through traffic lights by red and green.
+
 Put the traffic lights in a conspicuous place, and let the code monkey like me breakdown. ha-ha
 
 

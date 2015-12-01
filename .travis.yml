@@ -3,10 +3,11 @@ python:
   - "2.7"
 before_install:
   - pip install requests
-  - python wio_link_execute.py building
+  
 install:
 
 script:
+  - python wio_link_execute.py building
   - python helloworld.py
 after_success:
   - python wio_link_execute.py success
